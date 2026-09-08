@@ -1,4 +1,4 @@
-# Task 8.1P CI/CD pipeline trigger
+# Task 8.1P automatic CI/CD push trigger
 
 import logging
 import os
