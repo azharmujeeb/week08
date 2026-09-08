@@ -1,3 +1,5 @@
+# Task 8.1P CI/CD pipeline trigger
+
 import logging
 import os
 import time
